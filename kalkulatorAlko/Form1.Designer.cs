@@ -28,17 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
-            SuspendLayout();
-            // 
-            // button1
-            // 
-            button1.Location = new Point(393, 224);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 0;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+           
             // 
             // Form1
             // 
@@ -51,17 +41,7 @@
             ResumeLayout(false);
             checkBox1 = new CheckBox();
             SuspendLayout();
-            // 
-            // checkBox1
-            // 
-            checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(722, 48);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(82, 19);
-            checkBox1.TabIndex = 0;
-            checkBox1.Text = "checkBox1";
-            checkBox1.UseVisualStyleBackColor = true;
-            // 
+           
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
